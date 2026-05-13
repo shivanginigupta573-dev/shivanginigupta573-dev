@@ -17,3 +17,7 @@ SKILLS
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
+CONTRIBUTION STREAK
+---
+[![Streak](https://streak-stats.demolab.com?user=shivanginigupta573-dev&theme=dark)](https://git.io/streak-stats)
