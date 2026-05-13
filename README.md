@@ -2,11 +2,10 @@
 
 <p align="center">
   CSE Sophomore @ NIT Durgapur <br>
-  Backend Developer • Open Source Contributor • Exploring AI Systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Open+Source+Contributor;Learning+AI+Systems+%26+RAG;Always+Building+Something+Cool" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer;Open+Source+Contributor;Learning+AI+Systems+%26+RAG;Always+Building+Something+Cool" />
 </p>
 
 ---
@@ -38,7 +37,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools
@@ -52,44 +51,14 @@
 
 ## 🔹 InkFlow
 A modern blogging and content-sharing platform focused on clean UI, seamless writing experience, and scalable backend architecture.
-
-**Features:**
-- User Authentication & Authorization
-- Rich Text Blog Creation
-- Responsive Modern UI
-- Comment & Interaction System
-- Secure Backend APIs
-
-**Tech Stack:** Django, React, MySQL
-
 ---
 
 ## 🔹 StudysHere
 A student-focused platform designed to simplify resource sharing, collaboration, and academic organization.
-
-**Features:**
-- Organized Study Resources
-- Student Collaboration
-- Authentication System
-- Resource Management
-- Responsive User Interface
-
-**Tech Stack:** Django, React, MySQL
-
 ---
 
 ## 🔹 CommentLens
 AI-powered YouTube comment analyzer using sentiment analysis and toxicity detection.
-
-**Features:**
-- Sentiment Analysis
-- Toxicity Detection
-- AI-Based Comment Insights
-- Interactive Dashboard
-- Real-Time Processing
-
-**Tech Stack:** Django, React, TensorFlow
-
 ---
 
 # 📈 GitHub Stats
@@ -117,19 +86,9 @@ AI-powered YouTube comment analyzer using sentiment analysis and toxicity detect
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/shivangini-gupta-nitd/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
-  <a href="YOUR_LEETCODE_LINK">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
