@@ -1,96 +1,68 @@
-<h1 align="center">Hi 👋, I'm Shivangini</h1>
+<h1 align="center">Hi 👋, I'm Shivangini Gupta</h1>
 
 <p align="center">
-  CSE Sophomore @ NIT Durgapur <br>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web+Developer;Open+Source+Contributor;Learning+AI+Systems+%26+RAG;Always+Building+Something+Cool" />
+  <b>Computer Science Undergraduate @ NIT Durgapur</b><br>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 Featured Projects
 
-- 🌱 Currently learning **Backend Engineering, RAG Systems & AI**
-- 💻 Building scalable projects using **Django, React & Python**
-- 🧠 Solving DSA and strengthening problem-solving in **C++**
-- 🤝 Open Source Contributor & Maintainer
-- 🎯 Interested in **Backend, AI Systems & Developer Tools**
+### 🛒 [CommonRoom](#)
 
----
+**Next.js • Django REST Framework • PostgreSQL**
 
-# 🛠 Tech Stack
+A full-stack campus marketplace featuring JWT authentication, server-side search, pagination, wishlist functionality, and optimized database queries for scalable performance.
 
-### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233572A5.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### 💬 [CommentLens](#)
 
-### Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+**Django • React • Sentence Transformers • UMAP • HDBSCAN**
 
-### Backend & Database
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+An AI-powered YouTube comment analysis platform that performs topic discovery and semantic clustering through a scalable Python backend.
 
-### AI / ML
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+### 📚 [StudySphere](#)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+**React • Tailwind CSS**
+
+An open-source productivity platform that helps students organize tasks, plan study schedules, and visualize academic progress through a clean and intuitive interface.
 
 ---
 
-# ⭐ Featured Projects
+## 🛠 Tech Stack
 
-## 🔹 InkFlow
-A modern blogging and content-sharing platform focused on clean UI, seamless writing experience, and scalable backend architecture.
----
+**Languages**
 
-## 🔹 StudysHere
-A student-focused platform designed to simplify resource sharing, collaboration, and academic organization.
----
+`C++` • `Python` • `Java` • `JavaScript` • `SQL`
 
-## 🔹 CommentLens
-AI-powered YouTube comment analyzer using sentiment analysis and toxicity detection.
----
+**Frameworks**
 
-# 📈 GitHub Stats
+`Django` • `Django REST Framework` • `React` • `Next.js`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivanginigupta573-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+**Databases**
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanginigupta573-dev&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+`PostgreSQL` • `MySQL`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanginigupta573-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+**Tools**
+
+`Git` • `GitHub` • `Postman` • `Vercel` • `Render`
 
 ---
 
-# 📊 Contribution Graph
+## 🌱 Open Source
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivanginigupta573-dev&theme=tokyo-night&hide_border=true"/>
-</p>
+* Contributor to **Wagtail CMS**
+* **Hacktoberfest 2025 Super Contributor**
+* Passionate about building, maintaining, and collaborating on open-source projects.
 
 ---
 
-# 🌐 Connect With Me
+## 🤝 Connect
 
-<p align="center">
-  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/shivangini-gupta-nitd/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
----
+[LinkedIn](https://www.linkedin.com/in/shivangini-gupta-nitd/) •
+[Email](mailto:shivanginigupta573@gmail.com)
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+<br>
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shivanginigupta573-dev&show_icons=true&hide_border=true&theme=transparent"/>
 </p>
