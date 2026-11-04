@@ -1,68 +1,50 @@
-<h1 align="center">Hi 👋, I'm Shivangini Gupta</h1>
 
-<p align="center">
-  <b>Computer Science Undergraduate @ NIT Durgapur</b><br>
-</p>
+# Hi, I'm Shivangini Gupta 👋
 
----
+I'm a Computer Science undergraduate at **NIT Durgapur**.
 
-## 🚀 Featured Projects
+I mostly work with C++, Python, JavaScript and Django/React. I enjoy building projects, solving problems and contributing to open source.
 
-### 🛒 [CommonRoom](#)
+## Projects
 
-**Next.js • Django REST Framework • PostgreSQL**
+### [CommonRoom](https://github.com/shivanginigupta573-dev/commonroom)
 
-A full-stack campus marketplace featuring JWT authentication, server-side search, pagination, wishlist functionality, and optimized database queries for scalable performance.
+`Next.js` · `Django REST Framework` · `PostgreSQL`
 
-### 💬 [CommentLens](#)
+A campus marketplace where students can buy and sell items. Built with JWT authentication, search, pagination and wishlist functionality.
 
-**Django • React • Sentence Transformers • UMAP • HDBSCAN**
+### [CommentLens](https://github.com/shivanginigupta573-dev/CommentLens)
 
-An AI-powered YouTube comment analysis platform that performs topic discovery and semantic clustering through a scalable Python backend.
+`Django` · `React` · `Sentence Transformers` · `UMAP` · `HDBSCAN`
 
-### 📚 [StudySphere](#)
+A YouTube comment analysis tool that uses NLP to group comments into topics and identify common themes.
 
-**React • Tailwind CSS**
+### [StudySphere](https://github.com/shivanginigupta573-dev/Study-Sphere)
 
-An open-source productivity platform that helps students organize tasks, plan study schedules, and visualize academic progress through a clean and intuitive interface.
+`React` · `Tailwind CSS`
 
----
+A student productivity platform for managing tasks, planning study schedules and tracking academic progress.
 
-## 🛠 Tech Stack
+## Technologies
 
-**Languages**
+**Languages:** C++, Python, Java, JavaScript, SQL
 
-`C++` • `Python` • `Java` • `JavaScript` • `SQL`
+**Frontend:** React, Next.js, Tailwind CSS
 
-**Frameworks**
+**Backend:** Django, Django REST Framework, REST APIs
 
-`Django` • `Django REST Framework` • `React` • `Next.js`
+**Databases:** PostgreSQL, MySQL
 
-**Databases**
+**Tools:** Git, GitHub, Postman, Vercel, Render
 
-`PostgreSQL` • `MySQL`
+## Open Source
 
-**Tools**
+- Contributor to [Wagtail CMS](https://github.com/wagtail/wagtail).
+- Hacktoberfest 2025 Super Contributor.
+- GSSoC 2026 Mentor and Project Admin (AI/Agents).
 
-`Git` • `GitHub` • `Postman` • `Vercel` • `Render`
+## Find me here
 
----
-
-## 🌱 Open Source
-
-* Contributor to **Wagtail CMS**
-* **Hacktoberfest 2025 Super Contributor**
-* Passionate about building, maintaining, and collaborating on open-source projects.
-
----
-
-## 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/shivangini-gupta-nitd/) •
-[Email](mailto:shivanginigupta573@gmail.com)
-
-<br>
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=shivanginigupta573-dev&show_icons=true&hide_border=true&theme=transparent"/>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/shivangini-gupta-nitd/)
+- [GitHub](https://github.com/shivanginigupta573-dev)
+- [Email](mailto:shivanginigupta573@gmail.com)
